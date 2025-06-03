@@ -13,5 +13,3 @@ libxcomposite1
 libxdamage1
 libxrandr2
 xdg-utils
-libxss1
-libgconf-2-4
