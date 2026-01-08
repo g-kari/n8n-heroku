@@ -7,7 +7,7 @@
     "start": "n8n start"
   },
   "dependencies": {
-    "n8n": "^2.1.4",
+    "n8n": "^2.3.1",
     "n8n-nodes-puppeteer": "^1.4.1",
     "puppeteer": "^24.34.0"
   },
