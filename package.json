@@ -7,9 +7,9 @@
     "start": "n8n start"
   },
   "dependencies": {
-    "n8n": "^2.14.2",
-    "n8n-nodes-puppeteer": "^1.4.1",
-    "puppeteer": "^24.34.0"
+    "n8n": "2.20.9",
+    "n8n-nodes-puppeteer": "^1.5.0",
+    "puppeteer": "^24.43.1"
   },
   "engines": {
     "node": ">=18.0.0"
